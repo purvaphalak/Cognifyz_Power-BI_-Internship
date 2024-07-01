@@ -171,16 +171,21 @@ Visualized how investment durations and monitoring frequencies vary by reason.
 
 ### ➡️ Key Insights:
 ➤ Better Returns is the dominant reason for investment, indicating that investors are primarily motivated by high potential gains.
+
 ➤ Fund Diversification is also a significant reason, suggesting that investors are interested in spreading their risks across various assets.
+
 ➤ Tax Benefits is the least common reason, implying it is not a primary motivator for most investors in the dataset.
 
 ##### 💠Investment Duration:
 ➤ The majority of investments, regardless of reason, are held for 3-5 years.
+
 ➤ A significant portion also prefers a 1-3 year duration.
+
 ➤ Very few investors hold investments for less than 1 year or more than 5 years.
 
 ##### 💠Monitoring Frequency:
 ➤ Most investors prefer to monitor their investments monthly, indicating a preference for regular but not overly frequent oversight.
+
 ➤ Weekly and daily monitoring are less common, suggesting these are either less necessary or less feasible for most investors.
 
 ✅ These insights can help in understanding the primary motivations and behaviors of investors, which can be useful for financial planning and advising.

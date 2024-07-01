@@ -31,7 +31,7 @@ To effectively communicate the findings, I created a series of insightful charts
 
 ➤ Overall, the data highlights a young investor demographic with a focus on long-term financial security.
 
-- This task has been an good learning experience, enhancing my skills in data exploration, analysis, and visualization using Power BI. Excited for the next steps in my data adventure with Cognifyz!
+✅ This task has been an good learning experience, enhancing my skills in data exploration, analysis, and visualization using Power BI. Excited for the next steps in my data adventure with Cognifyz!
 
  ![TASK - 1](https://github.com/purvaphalak/Cognifyz_Power-BI_-Internship/assets/148857209/70735ee1-df70-46c0-994f-f95706f7b2a8)
 

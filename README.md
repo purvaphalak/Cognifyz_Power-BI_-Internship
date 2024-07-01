@@ -42,7 +42,8 @@ To effectively communicate the findings, I created a series of insightful charts
 
 ► As a part of Power-BI Internship at Cognifyz Technologies,I have been tasked to analyse and visualize gender-based differences in investment preferences .
 
-### ➡️ Objective: Analyze and visualize gender-based differences in investment preferences.
+### ➡️ Objective: 
+Analyze and visualize gender-based differences in investment preferences.
 
  ### ➡️ Steps I Followed :
 
